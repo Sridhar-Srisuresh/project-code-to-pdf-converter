@@ -1,4 +1,4 @@
-# Code to PDF/Text Converter
+# Project Code to PDF/Text Converter
 
 This Python project converts the contents of a project directory into either a PDF or a text file, making it easy to document and share your code projects. It is particularly useful for overcoming file attachment limitations encountered while working with chat-based Language Model (LLM) systems. This tool allows you to submit entire projects as context, provided they fall within the LLM's context length constraints.
 
@@ -23,11 +23,11 @@ This Python project converts the contents of a project directory into either a P
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/code-to-pdf-converter.git
+   git clone https://github.com/yourusername/project-code-to-pdf-converter.git
    ```
 2. Navigate to the project directory:
    ```
-   cd code-to-pdf-converter
+   cd project-code-to-pdf-converter
    ```
 3. Install the required packages:
    ```
